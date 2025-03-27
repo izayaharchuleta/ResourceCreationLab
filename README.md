@@ -1,4 +1,4 @@
-<h1>Resource Creation Home Lab (Azure Basics)</h1>
+<h1>Resource Creation Lab (Azure)</h1>
 
 <h2>Description</h2>
 Lab consists of a simple creation of a resource group and subsequent storage account that is then used to hold a text file from the host desktop. The text file is then edited from within the Azure storage account and redownloaded onto the desktop to showcase and observe one of the basic editing functions of Azure. The resource group was then deleted along with the storage account that was running within it upon completion of the lab.
